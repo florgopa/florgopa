@@ -12,10 +12,9 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 💻 Analista de Sistemas en formación  
-- 🎨 UX/UI Lover & Front-end Developer  
 - ✨ Apasionada por el diseño accesible, las estéticas y las pequeñas animaciones
 - 🛠 Trabajo con HTML, CSS, JS, PHP, Laravel y MySQL
-- 💜 Explorando React y proyectos con enfoque emocional, como **Memotune**
+- 💜 Explorando React y proyectos con enfoque emocional
 - 📚 Siempre aprendiendo algo nuevo: UX, testing, SAP, LSA…
 
 <br><br>
