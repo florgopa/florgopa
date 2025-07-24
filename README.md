@@ -6,9 +6,7 @@
 <p align="center">Web Designer & Developer | UX Lover | Exploradora visual y de código</p>
 
 ---
-
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 💻 Analista de Sistemas en formación  
@@ -16,11 +14,18 @@
 - 🛠 Trabajo con HTML, CSS, JS, PHP, Laravel y MySQL
 - 💜 Explorando React y proyectos con enfoque emocional
 - 📚 Siempre estoy aprendiendo algo nuevo
-
 <br><br>
-
 ---
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/florgomezpacheco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Florgomezpacheco-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:florgomezpacheco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-florgomezpacheco@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Tecnologías & Herramientas</b>
 <br>
 
