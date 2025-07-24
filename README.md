@@ -15,7 +15,8 @@
 - ✨ Apasionada por el diseño accesible, las estéticas y las pequeñas animaciones
 - 🛠 Trabajo con HTML, CSS, JS, PHP, Laravel y MySQL
 - 💜 Explorando React y proyectos con enfoque emocional
-- 📚 Siempre aprendiendo algo nuevo: UX, testing, SAP, LSA…
+- 📚 Siempre estoy aprendiendo algo nuevo
+
 <br><br>
 
 ---
@@ -34,22 +35,30 @@
   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
 - **Diseño & Creatividad**:
 
   ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Photopea](https://img.shields.io/badge/Photopea-%23171717.svg?style=for-the-badge&logo=photopea&logoColor=white)
+  ![Inkscape](https://img.shields.io/badge/Inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
   ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 
 <br>
 
-- **Otras herramientas**:
+- **Otras herramientas y entornos**:
 
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+  ![Scrum](https://img.shields.io/badge/Scrum-%230099FF.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </p>
 
