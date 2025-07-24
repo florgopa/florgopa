@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada_animada_suave_v2.gif" alt="Flor Gomez Pacheco - portada animada" width="100%" />
+  <img src="assets/portada_animada_con_parpadeo.gif" alt="Flor Gomez Pacheco - portada animada" width="100%" />
 </p>
 
 <h1 align="center">✨ Hola, soy Flor 👩‍💻</h1>
