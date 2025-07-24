@@ -16,7 +16,6 @@
 - 🛠 Trabajo con HTML, CSS, JS, PHP, Laravel y MySQL
 - 💜 Explorando React y proyectos con enfoque emocional
 - 📚 Siempre aprendiendo algo nuevo: UX, testing, SAP, LSA…
-
 <br><br>
 
 ---
